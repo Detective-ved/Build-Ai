@@ -1,0 +1,55 @@
+ * Serving Flask app 'app.py'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.21.98.9:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [19/Mar/2026 16:15:42] "OPTIONS /api/create-project HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 16:15:42] "[31m[1mPOST /api/create-project HTTP/1.1[0m" 400 -
+127.0.0.1 - - [19/Mar/2026 16:15:43] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 16:15:50] "POST /api/resource-optimization HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 16:19:22] "OPTIONS /api/create-project HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 16:19:22] "[35m[1mPOST /api/create-project HTTP/1.1[0m" 201 -
+127.0.0.1 - - [19/Mar/2026 16:26:01] "OPTIONS /api/create-project HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 16:26:01] "[35m[1mPOST /api/create-project HTTP/1.1[0m" 201 -
+127.0.0.1 - - [19/Mar/2026 16:26:47] "[33mGET /api/contractors/bids/PROJ-1773917807366 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:26:47] "[33mGET /api/contractors/bids/PROJ-1773917807366 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:30:54] "OPTIONS /api/create-project HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 16:30:54] "[35m[1mPOST /api/create-project HTTP/1.1[0m" 201 -
+127.0.0.1 - - [19/Mar/2026 16:30:56] "[33mOPTIONS /api/tracking/create HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:30:56] "[33mOPTIONS /api/tracking/create HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:31:06] "[33mGET /api/contractors/bids/PROJ-1773918066665 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:31:06] "[33mGET /api/contractors/bids/PROJ-1773918066665 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:31:58] "OPTIONS /api/create-project HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 16:31:58] "[35m[1mPOST /api/create-project HTTP/1.1[0m" 201 -
+127.0.0.1 - - [19/Mar/2026 16:32:17] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:32:17] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:32:24] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:32:24] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:32:26] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 16:32:26] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:17:13] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:17:13] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:24:30] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:24:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:26:15] "OPTIONS /api/create-project HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 19:26:15] "[31m[1mPOST /api/create-project HTTP/1.1[0m" 400 -
+127.0.0.1 - - [19/Mar/2026 19:26:25] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:26:25] "[33mGET /api/contractors/list HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:26:59] "[33mGET /api/contractors/list?specialization=electrical HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:27:01] "[33mGET /api/contractors/list?specialization=electrical&location=d HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:27:01] "[33mGET /api/contractors/list?specialization=electrical&location=de HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:27:01] "[33mGET /api/contractors/list?specialization=electrical&location=del HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:27:02] "[33mGET /api/contractors/list?specialization=electrical&location=delh HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:27:02] "[33mGET /api/contractors/list?specialization=electrical&location=delhi HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:27:04] "[33mGET /api/contractors/list?specialization=electrical&location=delhi&min_rating=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:27:21] "[33mOPTIONS /api/contractors/register HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:27:26] "[33mOPTIONS /api/contractors/register HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:34:06] "[33mOPTIONS /api/auth/login HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:36:20] "[33mOPTIONS /api/auth/register HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:37:50] "[33mOPTIONS /api/auth/register HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:37:51] "[33mOPTIONS /api/auth/register HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:46:51] "[33mOPTIONS /api/auth/register HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Mar/2026 19:47:55] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 19:48:00] "[33mPOST /api/auth/login HTTP/1.1[0m" 404 -

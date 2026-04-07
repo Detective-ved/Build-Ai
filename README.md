@@ -7,9 +7,9 @@
 ## 👥 Team Details
 
 * **Team Name:** 🔴 *Among Us*
-* **Team Leader:** 👑 *Raghav Mohan Gupta (You)*
-* 🧠 Developed & Presented at: **KIET Hackathon (AI Arena Theme)**
-  *(Previously showcased in KIET AI Arena Hackathon for validation & exposure 💪)*
+* **Team Leader:** 👑 *Raghav Mohan Gupta*
+* 🧠 Developed & Presented at: **AI Arena Hackathon - Gotham Edition**
+  *(Previously showcased in KIET Deemed To Be University,  AI Arena Hackathon for validation & exposure 💪)*
 
 ---
 

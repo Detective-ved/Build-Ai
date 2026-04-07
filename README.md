@@ -1,8 +1,8 @@
 ---
 
-                    # 🚧 BuildAI - Smart Construction Planning Platform 🤖🏗️
+# 🚧 BuildAI - Smart Construction Planning Platform 🤖🏗️
 
-          > *“Planning construction shouldn't feel like guesswork — BuildAI makes it intelligent.”*
+> *“Planning construction shouldn't feel like guesswork — BuildAI makes it intelligent.”*
 
 ---
 
